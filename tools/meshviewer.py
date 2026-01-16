@@ -18,9 +18,9 @@
 
 import numpy as np
 import trimesh
-import pyrender
-from pyrender.light import DirectionalLight
-from pyrender.node import Node
+# import pyrender
+# from pyrender.light import DirectionalLight
+# from pyrender.node import Node
 from PIL import Image
 from .utils import euler
 
